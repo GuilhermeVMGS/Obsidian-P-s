@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Machine Learning/Aula 04 - 19-10-2026.md",
+                "file": "00.Machine Learning/Aula 06 - 28-10-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 04 - 19-10-2026"
+              "title": "Aula 06 - 28-10-2026"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ec1d534a2ebdad7f",
@@ -192,21 +193,24 @@
   },
   "active": "3b089846f10c45e3",
   "lastOpenFiles": [
-    "Imagens/00/Pasted image 20261105204033.png",
+    "Pasted image 20261105214750.png",
+    "Imagens/00/Pasted image 20261105210530.png",
+    "00.Machine Learning/Aula 06 - 28-10-2026.md",
+    "00.Machine Learning/Aula 05 - 26-10-2026.md",
+    "Imagens/00/Pasted image 20261105212924.png",
+    "Imagens/00/Pasted image 20261105212828.png",
+    "Imagens/00/Pasted image 20261105212424.png",
+    "Imagens/00/Pasted image 20261105212222.png",
     "00.Machine Learning/Aula 04 - 19-10-2026.md",
-    "Imagens/00/Pasted image 20261105205037.png",
-    "Imagens/00/Pasted image 20261105204845.png",
-    "Imagens/00/Pasted image 20261105204625.png",
-    "Imagens/00/Pasted image 20261105204436.png",
-    "Imagens/00/Pasted image 20261105204151.png",
-    "Imagens/00/Pasted image 20261105203608.png",
-    "Imagens/00/Pasted image 20261105203349.png",
+    "Imagens/00/Pasted image 20261105205425.png",
+    "Imagens/00/Pasted image 20261105210428.png",
+    "Imagens/00/Pasted image 20261105210155.png",
+    "Imagens/00/Pasted image 20261105205907.png",
+    "Imagens/00/Pasted image 20261105204033.png",
     "00.Machine Learning/Aula 03 - 05-10-2026.md",
-    "Imagens/01/Pasted image 20261017135258.png",
     "01.Linguagem Natural/Aula 02 - 30-09-2026.md",
     "01.Linguagem Natural/Aula 01 - 23-09-2026.md",
     "01.Linguagem Natural/Aula 03 - 07-10-2026.md",
-    "Imagens/01/Pasted image 20261017132211.png",
     "Sem título.base",
     "Imagens/01",
     "Imagens/00/Sem título",
